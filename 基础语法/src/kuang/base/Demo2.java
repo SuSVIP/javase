@@ -1,4 +1,4 @@
-package base;
+package kuang.base;
 
 //基本类型
 public class Demo2 {

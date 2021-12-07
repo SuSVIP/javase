@@ -1,2 +1,4 @@
-package tarena.javase.day04;public class CollectionClone {
+package tarena.javase.day04;
+
+public class CollectionClone {
 }

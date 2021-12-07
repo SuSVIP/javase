@@ -1,4 +1,4 @@
-package base;
+package kuang.base;
 
 //起始之语
 public class Demo1{
