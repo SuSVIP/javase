@@ -1,3 +1,5 @@
+package base;
+
 //基本类型
 public class Demo2 {
     public static void main(String args[]){
