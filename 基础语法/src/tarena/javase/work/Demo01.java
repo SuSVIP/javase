@@ -5,7 +5,7 @@ package tarena.javase.work;
  *       a int i = 1; 重复 i=i+1
  *       b Integer i = 1; 重复 i=i+1;
  */
-public class Dmo01 {
+public class Demo01 {
     public static void main(String[] args) {
 
         long start = System.currentTimeMillis();

@@ -1,4 +1,4 @@
-package tarena.javase.work;
+package kuang.struct;
 
 public class fDemo04 {
     public static void main(String[] args) {
