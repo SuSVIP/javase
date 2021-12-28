@@ -14,15 +14,15 @@ import java.util.List;
 public class Demo02 {
     public static void main(String[] args) {
         List<String> lists=new ArrayList<>();
-        lists.add("8");
-        lists.add("7");
-        lists.add("9");
-        lists.add("5");
+        lists.add("BD");
+        lists.add("CH");
+        lists.add("AH");
+        lists.add("DJ");
         //lists中的对象String 本身含有compareTo方法，所以可以直接调用sort方法，按自然顺序排序，即升序排序
         Collections.sort(lists);
-        System.out.println(lists);//[5, 7, 8, 9]
-        int a=Collections.binarySearch(lists,"9");
-        System.out.println(a);//3
+        System.out.println(lists);//[AH, BD, CH, DJ]
+        int a=Collections.binarySearch(lists,"CH");
+        System.out.println(a);//2
     }
 
 }
